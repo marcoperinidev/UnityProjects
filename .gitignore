@@ -1,0 +1,12 @@
+FlarpyBlorb/Library/Artifacts/*
+FlarpyBlorb/Library/Bee/*
+FlarpyBlorb/Library/BurstCache/*
+FlarpyBlorb/Library/PackageCache/*
+FlarpyBlorb/Library/ScriptAssemblies/*
+FlarpyBlorb/Library/TempArtifacts/*
+FlarpyBlorb/Library/*.json
+FlarpyBlorb/Packages/*.json
+FlarpyBlorb/Assets/*.meta
+FlarpyBlorb/ProjectSettings/*
+FlarpyBlorb/UserSettings/*
+FlarbyBlorb/Logs/*
